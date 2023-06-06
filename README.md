@@ -2,16 +2,21 @@
 https://beautiful-halva-0a1ea1.netlify.app/
   
 <h1> About Project </h1>
-<p>This project allows user to add/remove items in Cart and order them on
+<b>This project allows user to add/remove items in Cart and order them on
    Correct mentioned address.
    This project uses concepts of React Hooks, Context API and Fetch API
    Including form validation and Firebase for Dummy backend.
-</p>
+</b>
   
+  <h1>Here are few Shots of project</h1>
+ <img src= "https://github.com/sujitoic999/Food-Order-SIte/blob/main/public/1.png"/>
+  <img src= "https://github.com/sujitoic999/Food-Order-SIte/blob/main/public/2.png"/>
+  <img src= "https://github.com/sujitoic999/Food-Order-SIte/blob/main/public/3.png"/>
+  <img src= "https://github.com/sujitoic999/Food-Order-SIte/blob/main/public/4.png"/>
+  <img src= "https://github.com/sujitoic999/Food-Order-SIte/blob/main/public/5.png"/>
+  <img src= "https://github.com/sujitoic999/Food-Order-SIte/blob/main/public/6.png"/>
   
-
-
-# Getting Started with Create React App
+  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
